@@ -8,3 +8,8 @@ How is the staging area different from the working directory and the repository?
 
 	staging area is like, a temporary place to show what you are going to change
 	it's value is in showing what we will change before committing, which may be important if we are commiting to production.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	git diff to compare staging area and working directory
+	git diff --staged to compare latest(?) commit and staging area
