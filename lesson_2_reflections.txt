@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	An empty repository is created when you run git init with 0 commits.
 	No files will be tracked.
 	We need to init because... we need to start the first version somewhere.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area is like, a temporary place to show what you are going to change
+	it's value is in showing what we will change before committing, which may be important if we are commiting to production.
