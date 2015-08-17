@@ -23,4 +23,7 @@ How do the diagrams help you visualize the branch structure
 
 	Can see where the seperation occured so can see what may or may not be included in each branch.
 	
-	
+What is the result of merging 2 branches together? Why do we represent it in the diagram the way we do?
+
+    Merging 2 branches together adds all commits together
+    A merged commit will have multiple parents because it has to contain the changes made to all the merged branches.
