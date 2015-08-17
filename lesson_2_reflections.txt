@@ -27,3 +27,8 @@ What is the result of merging 2 branches together? Why do we represent it in the
 
     Merging 2 branches together adds all commits together
     A merged commit will have multiple parents because it has to contain the changes made to all the merged branches.
+    
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    automatic merging: easy and fast
+    manual merging: make sure that what we are adding/removing is the correct version
