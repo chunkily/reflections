@@ -5,3 +5,10 @@ Why might you want to always pull changes manually rather than having Git automa
     The same reason why we do not want to do automatic merging. 
     So we can be more sure of the state of the current repository
 
+Describe the differences between forks, clones and branches. When would you use one instead of another
+    fork: Creating a github repository from another github repository
+          use it when you want to credit someones original work
+    clone: Creating a local repository from another repository (either on github or local)
+           use it when you want to be able to work on a project offline using your local machine
+    branch: Create a branch that will have a seperated HEAD as the repository
+           use it when trying out something experimental or adding features
