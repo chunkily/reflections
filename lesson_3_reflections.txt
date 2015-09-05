@@ -16,3 +16,9 @@ Describe the differences between forks, clones and branches. When would you use 
 What is the benefit of having a copy of the last known state of the remote stored locally?
     Rather than merging automatically with pull, fetch allows us to see whether there might be any conflicts
     before doing anything.
+    
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    working on the same keyboard like that one scene in ncsi? (kidding)
+    if using git alone we may be able to work on the same repository if it were stored on a local cloud
+    if using github, we do not need that. but then we would need to pay for a private repository.
+    
